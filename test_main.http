@@ -1,0 +1,21 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/get-by-id/1
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000//get-by-username/Antonette
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000//get-by-name/Ervin
+Accept: application/json
+
+###
