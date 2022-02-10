@@ -3,6 +3,109 @@
 GET http://127.0.0.1:8000/
 Accept: application/json
 
+[
+  {
+    "ID": 1,
+    "Name": "Leanne Graham",
+    "Username": "Bret",
+    "Email": "Sincere@april.biz",
+    "Address": "Kulas Light, Apt. 556, Gwenborough, 92998-3874",
+    "Phone": "1-770-736-8031 x56442",
+    "Salary in IDR": 4001111.510555328,
+    "Salary in USD": 279.2239405347
+  },
+  {
+    "ID": 2,
+    "Name": "Ervin Howell",
+    "Username": "Antonette",
+    "Email": "Shanna@melissa.tv",
+    "Address": "Victor Plains, Suite 879, Wisokyburgh, 90566-7771",
+    "Phone": "010-692-6593 x09125",
+    "Salary in IDR": 4685534.363816402,
+    "Salary in USD": 326.9874796352
+  },
+  {
+    "ID": 3,
+    "Name": "Clementine Bauch",
+    "Username": "Samantha",
+    "Email": "Nathan@yesenia.net",
+    "Address": "Douglas Extension, Suite 847, McKenziehaven, 59590-4157",
+    "Phone": "1-463-123-4447",
+    "Salary in IDR": 3013601.6163306856,
+    "Salary in USD": 210.308989463
+  },
+  {
+    "ID": 4,
+    "Name": "Patricia Lebsack",
+    "Username": "Karianne",
+    "Email": "Julianne.OConner@kory.org",
+    "Address": "Hoeger Mall, Apt. 692, South Elvis, 53919-4257",
+    "Phone": "493-170-9623 x156",
+    "Salary in IDR": 9619331.420029558,
+    "Salary in USD": 671.3003667417
+  },
+  {
+    "ID": 5,
+    "Name": "Chelsey Dietrich",
+    "Username": "Kamren",
+    "Email": "Lucio_Hettinger@annie.ca",
+    "Address": "Skiles Walks, Suite 351, Roscoeview, 33263",
+    "Phone": "(254)954-1289",
+    "Salary in IDR": 8380696.500881106,
+    "Salary in USD": 584.8602557635
+  },
+  {
+    "ID": 6,
+    "Name": "Mrs. Dennis Schulist",
+    "Username": "Leopoldo_Corkery",
+    "Email": "Karley_Dach@jasper.info",
+    "Address": "Norberto Crossing, Apt. 950, South Christy, 23505-1337",
+    "Phone": "1-477-935-8478 x6430",
+    "Salary in IDR": 9091824.554498984,
+    "Salary in USD": 634.4874598122
+  },
+  {
+    "ID": 7,
+    "Name": "Kurtis Weissnat",
+    "Username": "Elwyn.Skiles",
+    "Email": "Telly.Hoeger@billy.biz",
+    "Address": "Rex Trail, Suite 280, Howemouth, 58804-1099",
+    "Phone": "210.067.6132",
+    "Salary in IDR": 6996573.171622309,
+    "Salary in USD": 488.2670043227
+  },
+  {
+    "ID": 8,
+    "Name": "Nicholas Runolfsdottir V",
+    "Username": "Maxime_Nienow",
+    "Email": "Sherwood@rosamond.me",
+    "Address": "Ellsworth Summit, Suite 729, Aliyaview, 45169",
+    "Phone": "586.493.6943 x140",
+    "Salary in IDR": 3910254.930004663,
+    "Salary in USD": 272.8833693265
+  },
+  {
+    "ID": 9,
+    "Name": "Glenna Reichert",
+    "Username": "Delphine",
+    "Email": "Chaim_McDermott@dana.io",
+    "Address": "Dayna Park, Suite 449, Bartholomebury, 76495-3109",
+    "Phone": "(775)976-6794 x41206",
+    "Salary in IDR": 5968429.287836904,
+    "Salary in USD": 416.5163455596
+  },
+  {
+    "ID": 10,
+    "Name": "Clementina DuBuque",
+    "Username": "Moriah.Stanton",
+    "Email": "Rey.Padberg@karina.biz",
+    "Address": "Kattie Turnpike, Suite 198, Lebsackbury, 31428-2261",
+    "Phone": "024-648-3804",
+    "Salary in IDR": 5964808.282007527,
+    "Salary in USD": 416.2636478995
+  }
+]
+
 ###
 
 GET http://127.0.0.1:8000/get-by-id/1
